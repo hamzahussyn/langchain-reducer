@@ -19,3 +19,11 @@ venv/
 
 # IDE specific files
 .vscode/
+
+# Environment Config
+.env
+
+# DataBases
+DailyWeights.csv
+weights.db
+.~lock.DailyWeights.csv#
